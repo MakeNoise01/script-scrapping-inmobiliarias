@@ -1,3 +1,3 @@
-# Scraper para conseguir una Xbox Series X
+# Scrap para conseguir alquiler en Santa Fe
 
-Pues eso... que está la cosa complicada.
+Pues eso... que está complicado.
